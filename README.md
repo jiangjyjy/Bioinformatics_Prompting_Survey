@@ -1,6 +1,6 @@
 # Biological Sequence with Language Model Prompting: A Survey
 
-> A summary of the survey paper investigating how prompt-based methodologies enable Large Language Models (LLMs) to tackle challenges in biological sequence analysis. The paper covers applications across DNA, RNA, proteins, and drug discovery.
+> A summary of the survey paper investigating how prompt-based methodologies enable Language Models to tackle challenges in biological sequence analysis. The paper covers applications across DNA, RNA, proteins, and drug discovery.
 
 **Paper Link:** 🔗 [https://arxiv.org/abs/2503.04135](https://arxiv.org/abs/2503.04135)
 
